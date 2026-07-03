@@ -46,6 +46,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/prateek7137/DSA_Practice/tree/master/0372-super-pow) |
 ## Brainteaser
 |  |
 | ------- |
@@ -70,4 +71,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/prateek7137/DSA_Practice/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
