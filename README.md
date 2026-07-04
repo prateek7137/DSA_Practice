@@ -40,6 +40,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
