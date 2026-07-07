@@ -17,6 +17,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
@@ -108,6 +109,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
@@ -121,4 +123,12 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
