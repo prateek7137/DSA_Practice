@@ -18,6 +18,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
@@ -116,4 +117,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
