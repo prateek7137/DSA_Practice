@@ -24,6 +24,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## String
 |  |
 | ------- |
+| [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 ## Stack
@@ -131,4 +132,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
