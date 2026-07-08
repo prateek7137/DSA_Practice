@@ -17,6 +17,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/prateek7137/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -153,4 +154,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/prateek7137/DSA_Practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
