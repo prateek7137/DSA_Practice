@@ -23,6 +23,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
 ## String
@@ -36,15 +37,18 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,4 +166,5 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0283-move-zeroes](https://github.com/prateek7137/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
