@@ -18,6 +18,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/prateek7137/DSA_Practice/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/prateek7137/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
