@@ -21,6 +21,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0228-summary-ranges](https://github.com/prateek7137/DSA_Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/prateek7137/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
