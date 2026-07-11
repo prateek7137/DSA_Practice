@@ -37,6 +37,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -121,6 +122,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -144,6 +146,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
@@ -151,6 +154,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 ## Design
 |  |
@@ -187,6 +191,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 ## Binary Indexed Tree
 |  |
