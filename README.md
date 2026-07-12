@@ -9,6 +9,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/prateek7137/DSA_Practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/prateek7137/DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prateek7137/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
@@ -16,6 +17,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/prateek7137/DSA_Practice/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/prateek7137/DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Array
 |  |
 | ------- |
