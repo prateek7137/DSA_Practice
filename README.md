@@ -32,6 +32,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prateek7137/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
@@ -180,6 +181,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -218,6 +220,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prateek7137/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting
 |  |
