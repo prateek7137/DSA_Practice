@@ -81,6 +81,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/prateek7137/DSA_Practice/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prateek7137/DSA_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
@@ -94,6 +95,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -232,4 +234,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
