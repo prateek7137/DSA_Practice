@@ -248,4 +248,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/prateek7137/DSA_Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
