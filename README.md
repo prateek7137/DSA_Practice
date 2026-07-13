@@ -50,6 +50,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/prateek7137/DSA_Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -231,6 +232,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/prateek7137/DSA_Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Quickselect
 |  |
