@@ -86,6 +86,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/prateek7137/DSA_Practice/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/prateek7137/DSA_Practice/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -102,6 +103,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/prateek7137/DSA_Practice/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/prateek7137/DSA_Practice/tree/master/0377-combination-sum-iv) |
