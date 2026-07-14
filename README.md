@@ -139,6 +139,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -200,6 +201,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0349-intersection-of-two-arrays](https://github.com/prateek7137/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prateek7137/DSA_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting
@@ -308,4 +311,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prateek7137/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
