@@ -98,6 +98,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/prateek7137/DSA_Practice/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
