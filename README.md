@@ -99,6 +99,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/prateek7137/DSA_Practice/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
@@ -119,6 +120,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
@@ -146,6 +148,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -278,6 +281,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/prateek7137/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
