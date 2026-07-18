@@ -338,4 +338,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/prateek7137/DSA_Practice/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
