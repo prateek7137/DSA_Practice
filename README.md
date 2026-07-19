@@ -66,6 +66,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/prateek7137/DSA_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -81,12 +83,14 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0376-wiggle-subsequence) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
