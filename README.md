@@ -47,6 +47,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0376-wiggle-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/prateek7137/DSA_Practice/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0393-utf-8-validation](https://github.com/prateek7137/DSA_Practice/tree/master/0393-utf-8-validation) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
@@ -102,6 +103,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/prateek7137/DSA_Practice/tree/master/0393-utf-8-validation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
