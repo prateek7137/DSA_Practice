@@ -48,6 +48,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0377-combination-sum-iv](https://github.com/prateek7137/DSA_Practice/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateek7137/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -247,6 +248,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -344,6 +346,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prateek7137/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
