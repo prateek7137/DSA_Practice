@@ -77,6 +77,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prateek7137/DSA_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prateek7137/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -89,6 +90,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -98,6 +100,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0324-wiggle-sort-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
@@ -105,6 +108,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
