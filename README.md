@@ -117,6 +117,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/prateek7137/DSA_Practice/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/prateek7137/DSA_Practice/tree/master/0401-binary-watch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -288,6 +289,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/prateek7137/DSA_Practice/tree/master/0401-binary-watch) |
 ## Binary Indexed Tree
 |  |
 | ------- |
