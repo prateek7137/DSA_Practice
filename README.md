@@ -75,6 +75,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prateek7137/DSA_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/prateek7137/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -333,6 +334,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/prateek7137/DSA_Practice/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/prateek7137/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Recursion
 |  |
 | ------- |
