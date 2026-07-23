@@ -115,6 +115,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -129,6 +130,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/prateek7137/DSA_Practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
@@ -363,6 +365,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
 ## Bucket Sort
