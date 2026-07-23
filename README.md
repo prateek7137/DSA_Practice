@@ -89,6 +89,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prateek7137/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prateek7137/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
@@ -318,6 +319,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prateek7137/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
@@ -372,6 +374,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
 ## Bucket Sort
@@ -396,6 +399,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 ## Simulation
 |  |
