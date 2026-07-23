@@ -217,6 +217,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
@@ -245,6 +246,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
@@ -253,6 +255,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 ## Design
@@ -360,6 +363,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
