@@ -132,6 +132,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/prateek7137/DSA_Practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
@@ -158,6 +159,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
@@ -369,6 +371,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
 ## Bucket Sort
