@@ -88,6 +88,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prateek7137/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prateek7137/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
@@ -255,6 +256,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prateek7137/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prateek7137/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prateek7137/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
@@ -264,6 +266,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prateek7137/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prateek7137/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
