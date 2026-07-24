@@ -14,6 +14,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/prateek7137/DSA_Practice/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/prateek7137/DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/prateek7137/DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/prateek7137/DSA_Practice/tree/master/0400-nth-digit) |
@@ -146,6 +147,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/prateek7137/DSA_Practice/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/prateek7137/DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/prateek7137/DSA_Practice/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
