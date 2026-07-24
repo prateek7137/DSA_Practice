@@ -85,6 +85,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prateek7137/DSA_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prateek7137/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -133,6 +134,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0393-utf-8-validation](https://github.com/prateek7137/DSA_Practice/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/prateek7137/DSA_Practice/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prateek7137/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -156,6 +158,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0396-rotate-function](https://github.com/prateek7137/DSA_Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/prateek7137/DSA_Practice/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/prateek7137/DSA_Practice/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateek7137/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prateek7137/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
