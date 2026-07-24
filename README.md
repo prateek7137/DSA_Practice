@@ -6,6 +6,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/prateek7137/DSA_Practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0228-summary-ranges](https://github.com/prateek7137/DSA_Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/prateek7137/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -120,6 +122,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prateek7137/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
@@ -138,6 +141,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/prateek7137/DSA_Practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
@@ -285,6 +289,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/prateek7137/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -346,6 +351,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/prateek7137/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
