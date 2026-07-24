@@ -234,6 +234,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -243,6 +244,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -262,6 +264,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +273,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 ## Design
 |  |
 | ------- |
