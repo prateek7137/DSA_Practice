@@ -93,6 +93,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0402-remove-k-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/prateek7137/DSA_Practice/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prateek7137/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -172,6 +173,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0398-random-pick-index](https://github.com/prateek7137/DSA_Practice/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/prateek7137/DSA_Practice/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateek7137/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -464,6 +466,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prateek7137/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
