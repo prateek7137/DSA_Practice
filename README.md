@@ -57,6 +57,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0396-rotate-function](https://github.com/prateek7137/DSA_Practice/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/prateek7137/DSA_Practice/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
@@ -320,6 +321,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0354-russian-doll-envelopes](https://github.com/prateek7137/DSA_Practice/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prateek7137/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -350,10 +352,12 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
