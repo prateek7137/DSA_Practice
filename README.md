@@ -61,6 +61,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
@@ -210,6 +211,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0397-integer-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/prateek7137/DSA_Practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prateek7137/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
@@ -482,6 +484,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prateek7137/DSA_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
 ## Memoization
 |  |
 | ------- |
