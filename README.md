@@ -62,6 +62,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0407-trapping-rain-water-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
@@ -175,6 +176,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0400-nth-digit](https://github.com/prateek7137/DSA_Practice/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateek7137/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -212,6 +214,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0403-frog-jump](https://github.com/prateek7137/DSA_Practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prateek7137/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
@@ -427,6 +430,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -441,6 +445,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 ## Bucket Sort
 |  |
 | ------- |
