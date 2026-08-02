@@ -175,6 +175,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/prateek7137/DSA_Practice/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/prateek7137/DSA_Practice/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/prateek7137/DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/prateek7137/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
@@ -276,6 +277,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/prateek7137/DSA_Practice/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -286,6 +288,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/prateek7137/DSA_Practice/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0407-trapping-rain-water-ii) |
