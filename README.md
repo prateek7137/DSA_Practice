@@ -84,6 +84,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/prateek7137/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
@@ -337,6 +338,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/prateek7137/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -409,6 +411,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/prateek7137/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
