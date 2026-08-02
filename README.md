@@ -172,6 +172,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0319-bulb-switcher](https://github.com/prateek7137/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/prateek7137/DSA_Practice/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/prateek7137/DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/prateek7137/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/prateek7137/DSA_Practice/tree/master/0371-sum-of-two-integers) |
@@ -212,6 +213,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0338-counting-bits](https://github.com/prateek7137/DSA_Practice/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/prateek7137/DSA_Practice/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/prateek7137/DSA_Practice/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/prateek7137/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0376-wiggle-subsequence) |
@@ -376,6 +378,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/prateek7137/DSA_Practice/tree/master/0401-binary-watch) |
 ## Binary Indexed Tree
 |  |
