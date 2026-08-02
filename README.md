@@ -83,6 +83,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
@@ -162,6 +163,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/prateek7137/DSA_Practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/prateek7137/DSA_Practice/tree/master/0268-missing-number) |
@@ -201,6 +203,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
@@ -452,6 +455,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0231-power-of-two](https://github.com/prateek7137/DSA_Practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/prateek7137/DSA_Practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/prateek7137/DSA_Practice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -502,6 +506,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0397-integer-replacement) |
 ## Reservoir Sampling
 |  |
