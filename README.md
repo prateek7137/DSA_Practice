@@ -281,6 +281,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/prateek7137/DSA_Practice/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -546,4 +547,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/prateek7137/DSA_Practice/tree/master/1406-stone-game-iii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
