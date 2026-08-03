@@ -65,6 +65,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -232,6 +233,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0403-frog-jump](https://github.com/prateek7137/DSA_Practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prateek7137/DSA_Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prateek7137/DSA_Practice/tree/master/1406-stone-game-iii) |
@@ -556,4 +558,12 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0386-lexicographical-numbers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
