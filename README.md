@@ -110,6 +110,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prateek7137/DSA_Practice/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/prateek7137/DSA_Practice/tree/master/0420-strong-password-checker) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -202,6 +203,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prateek7137/DSA_Practice/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prateek7137/DSA_Practice/tree/master/0877-stone-game) |
@@ -469,6 +471,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0398-random-pick-index](https://github.com/prateek7137/DSA_Practice/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/prateek7137/DSA_Practice/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
