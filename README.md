@@ -313,6 +313,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prateek7137/DSA_Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/prateek7137/DSA_Practice/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prateek7137/DSA_Practice/tree/master/3310-remove-methods-from-project) |
@@ -548,6 +549,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -610,4 +612,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
