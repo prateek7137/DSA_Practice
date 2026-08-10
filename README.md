@@ -368,6 +368,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
 ## Queue
 |  |
 | ------- |
@@ -479,6 +480,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -550,6 +552,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
 ## Simulation
 |  |
 | ------- |
@@ -616,4 +619,5 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
