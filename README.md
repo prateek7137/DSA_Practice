@@ -80,6 +80,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1406-stone-game-iii](https://github.com/prateek7137/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateek7137/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prateek7137/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -115,6 +116,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateek7137/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -444,6 +446,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/prateek7137/DSA_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
@@ -543,6 +546,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prateek7137/DSA_Practice/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Number Theory
 |  |
 | ------- |
