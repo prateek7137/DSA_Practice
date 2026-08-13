@@ -1,0 +1,1 @@
+const rand10=()=>{let r=7,n=6;for(;r>6;)r=rand7();for(;n>5;)n=rand7();return r%2==0?n:n+5};
