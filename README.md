@@ -70,6 +70,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0419-battleships-in-a-board](https://github.com/prateek7137/DSA_Practice/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -185,6 +186,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0401-binary-watch](https://github.com/prateek7137/DSA_Practice/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prateek7137/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -266,6 +268,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prateek7137/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -447,6 +450,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/prateek7137/DSA_Practice/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
@@ -665,4 +669,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/prateek7137/DSA_Practice/tree/master/0470-implement-rand10-using-rand7) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
