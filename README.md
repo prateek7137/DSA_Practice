@@ -69,6 +69,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0417-pacific-atlantic-water-flow](https://github.com/prateek7137/DSA_Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/prateek7137/DSA_Practice/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -118,6 +119,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/prateek7137/DSA_Practice/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -263,6 +265,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0416-partition-equal-subset-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prateek7137/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -326,6 +329,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0417-pacific-atlantic-water-flow](https://github.com/prateek7137/DSA_Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/prateek7137/DSA_Practice/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prateek7137/DSA_Practice/tree/master/3310-remove-methods-from-project) |
@@ -406,6 +410,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0414-third-maximum-number) |
+| [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -630,6 +635,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 ## Knapsack Problem
 |  |
 | ------- |
