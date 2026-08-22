@@ -79,6 +79,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/prateek7137/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/prateek7137/DSA_Practice/tree/master/1563-stone-game-v) |
@@ -160,6 +161,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/prateek7137/DSA_Practice/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateek7137/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -189,6 +191,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
+| [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prateek7137/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -510,6 +513,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prateek7137/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
