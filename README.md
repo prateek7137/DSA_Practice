@@ -123,6 +123,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0420-strong-password-checker](https://github.com/prateek7137/DSA_Practice/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/prateek7137/DSA_Practice/tree/master/0468-validate-ip-address) |
