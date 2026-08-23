@@ -20,6 +20,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prateek7137/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/prateek7137/DSA_Practice/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prateek7137/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -71,6 +72,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0419-battleships-in-a-board](https://github.com/prateek7137/DSA_Practice/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -434,6 +436,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0406-queue-reconstruction-by-height](https://github.com/prateek7137/DSA_Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
