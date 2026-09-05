@@ -107,6 +107,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [3718-smallest-missing-multiple-of-k](https://github.com/prateek7137/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/prateek7137/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prateek7137/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3904-smallest-stable-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -484,6 +485,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1872-stone-game-viii](https://github.com/prateek7137/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
