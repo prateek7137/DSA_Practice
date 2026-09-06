@@ -21,6 +21,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0400-nth-digit](https://github.com/prateek7137/DSA_Practice/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/prateek7137/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prateek7137/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -249,6 +250,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prateek7137/DSA_Practice/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/prateek7137/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0470-implement-rand10-using-rand7](https://github.com/prateek7137/DSA_Practice/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
