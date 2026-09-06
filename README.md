@@ -74,6 +74,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -465,6 +466,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0414-third-maximum-number](https://github.com/prateek7137/DSA_Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
@@ -563,6 +565,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
