@@ -115,6 +115,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/prateek7137/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/prateek7137/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
@@ -282,6 +283,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/prateek7137/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/prateek7137/DSA_Practice/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
