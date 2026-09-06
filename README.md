@@ -140,6 +140,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/prateek7137/DSA_Practice/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/prateek7137/DSA_Practice/tree/master/0468-validate-ip-address) |
@@ -535,6 +536,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0349-intersection-of-two-arrays](https://github.com/prateek7137/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/prateek7137/DSA_Practice/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateek7137/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
