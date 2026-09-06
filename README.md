@@ -714,6 +714,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/prateek7137/DSA_Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 ## Knapsack Problem
 |  |
