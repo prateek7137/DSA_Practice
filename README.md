@@ -145,6 +145,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/prateek7137/DSA_Practice/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
+| [0940-distinct-subsequences-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/prateek7137/DSA_Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -318,6 +319,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prateek7137/DSA_Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prateek7137/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prateek7137/DSA_Practice/tree/master/1510-stone-game-iv) |
