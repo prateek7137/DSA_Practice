@@ -76,6 +76,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -257,6 +258,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0423-reconstruct-original-digits-from-english](https://github.com/prateek7137/DSA_Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/prateek7137/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
 | [0470-implement-rand10-using-rand7](https://github.com/prateek7137/DSA_Practice/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -574,6 +576,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
