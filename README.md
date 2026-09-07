@@ -75,6 +75,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0435-non-overlapping-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -313,6 +314,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
