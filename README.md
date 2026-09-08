@@ -144,6 +144,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0434-number-of-segments-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/prateek7137/DSA_Practice/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/prateek7137/DSA_Practice/tree/master/0468-validate-ip-address) |
@@ -390,6 +391,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0419-battleships-in-a-board](https://github.com/prateek7137/DSA_Practice/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -405,6 +407,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prateek7137/DSA_Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prateek7137/DSA_Practice/tree/master/3310-remove-methods-from-project) |
@@ -429,6 +432,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0341-flatten-nested-list-iterator](https://github.com/prateek7137/DSA_Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +443,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0337-house-robber-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Design
 |  |
 | ------- |
@@ -450,6 +455,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/prateek7137/DSA_Practice/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/prateek7137/DSA_Practice/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Queue
 |  |
 | ------- |
@@ -607,6 +613,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Game Theory
 |  |
 | ------- |
