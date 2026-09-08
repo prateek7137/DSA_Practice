@@ -78,6 +78,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prateek7137/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -192,6 +193,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/prateek7137/DSA_Practice/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prateek7137/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/prateek7137/DSA_Practice/tree/master/1927-sum-game) |
@@ -489,6 +491,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0436-find-right-interval](https://github.com/prateek7137/DSA_Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prateek7137/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
