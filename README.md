@@ -433,6 +433,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -444,6 +445,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0404-sum-of-left-leaves](https://github.com/prateek7137/DSA_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
 ## Design
 |  |
 | ------- |
@@ -614,6 +616,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
 ## Game Theory
 |  |
 | ------- |
