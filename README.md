@@ -79,6 +79,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prateek7137/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -264,6 +265,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0441-arranging-coins](https://github.com/prateek7137/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/prateek7137/DSA_Practice/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
