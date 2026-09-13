@@ -37,6 +37,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0001-two-sum) |
 | [0228-summary-ranges](https://github.com/prateek7137/DSA_Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0260-single-number-iii) |
@@ -576,6 +577,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prateek7137/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0264-ugly-number-ii) |
