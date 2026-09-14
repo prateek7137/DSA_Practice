@@ -270,6 +270,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0470-implement-rand10-using-rand7](https://github.com/prateek7137/DSA_Practice/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/prateek7137/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prateek7137/DSA_Practice/tree/master/1406-stone-game-iii) |
@@ -792,4 +793,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
