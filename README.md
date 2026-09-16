@@ -401,6 +401,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateek7137/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prateek7137/DSA_Practice/tree/master/3310-remove-methods-from-project) |
@@ -442,6 +443,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateek7137/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateek7137/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
 | ------- |
