@@ -85,6 +85,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/prateek7137/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -522,6 +523,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0407-trapping-rain-water-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prateek7137/DSA_Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/prateek7137/DSA_Practice/tree/master/0419-battleships-in-a-board) |
+| [0835-image-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prateek7137/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
