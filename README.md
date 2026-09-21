@@ -160,6 +160,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0940-distinct-subsequences-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/prateek7137/DSA_Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -204,6 +205,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prateek7137/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/prateek7137/DSA_Practice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prateek7137/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -516,6 +518,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1288-remove-covered-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prateek7137/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prateek7137/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -620,6 +623,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prateek7137/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
