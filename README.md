@@ -24,6 +24,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0441-arranging-coins](https://github.com/prateek7137/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek7137/DSA_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prateek7137/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prateek7137/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -98,6 +99,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/prateek7137/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prateek7137/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/prateek7137/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateek7137/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prateek7137/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -549,6 +551,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prateek7137/DSA_Practice/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/prateek7137/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prateek7137/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/prateek7137/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -629,6 +632,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prateek7137/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prateek7137/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -751,6 +755,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prateek7137/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prateek7137/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Memoization
