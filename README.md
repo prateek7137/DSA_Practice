@@ -164,6 +164,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0467-unique-substrings-in-wraparound-string](https://github.com/prateek7137/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/prateek7137/DSA_Practice/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
+| [0481-magical-string](https://github.com/prateek7137/DSA_Practice/tree/master/0481-magical-string) |
 | [0940-distinct-subsequences-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1096-brace-expansion-ii) |
@@ -607,6 +608,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0392-is-subsequence](https://github.com/prateek7137/DSA_Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/prateek7137/DSA_Practice/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
+| [0481-magical-string](https://github.com/prateek7137/DSA_Practice/tree/master/0481-magical-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateek7137/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
