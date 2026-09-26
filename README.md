@@ -85,6 +85,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/prateek7137/DSA_Practice/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0835-image-overlap) |
@@ -247,6 +248,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prateek7137/DSA_Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/prateek7137/DSA_Practice/tree/master/0477-total-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prateek7137/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prateek7137/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -285,6 +287,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/prateek7137/DSA_Practice/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/prateek7137/DSA_Practice/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0836-rectangle-overlap) |
