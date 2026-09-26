@@ -289,6 +289,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0470-implement-rand10-using-rand7](https://github.com/prateek7137/DSA_Practice/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/prateek7137/DSA_Practice/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/prateek7137/DSA_Practice/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/prateek7137/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0836-rectangle-overlap) |
@@ -690,6 +691,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/prateek7137/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/prateek7137/DSA_Practice/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prateek7137/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
