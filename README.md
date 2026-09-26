@@ -86,6 +86,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/prateek7137/DSA_Practice/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/prateek7137/DSA_Practice/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/prateek7137/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/prateek7137/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prateek7137/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0835-image-overlap) |
@@ -396,6 +397,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0407-trapping-rain-water-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/prateek7137/DSA_Practice/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/prateek7137/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/prateek7137/DSA_Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -640,6 +642,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0447-number-of-boomerangs](https://github.com/prateek7137/DSA_Practice/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/prateek7137/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [1096-brace-expansion-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/prateek7137/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
@@ -769,6 +772,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0413-arithmetic-slices](https://github.com/prateek7137/DSA_Practice/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/prateek7137/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prateek7137/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prateek7137/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -853,4 +857,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0478-generate-random-point-in-a-circle](https://github.com/prateek7137/DSA_Practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/prateek7137/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prateek7137/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/prateek7137/DSA_Practice/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
