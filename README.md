@@ -134,6 +134,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prateek7137/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/prateek7137/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -189,6 +190,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/prateek7137/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prateek7137/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prateek7137/DSA_Practice/tree/master/0234-palindrome-linked-list) |
@@ -863,4 +865,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/prateek7137/DSA_Practice/tree/master/0480-sliding-window-median) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
