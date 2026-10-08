@@ -140,6 +140,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/prateek7137/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/prateek7137/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prateek7137/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -463,6 +464,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/prateek7137/DSA_Practice/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/prateek7137/DSA_Practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/prateek7137/DSA_Practice/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
@@ -597,6 +599,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/prateek7137/DSA_Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/prateek7137/DSA_Practice/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/prateek7137/DSA_Practice/tree/master/0401-binary-watch) |
