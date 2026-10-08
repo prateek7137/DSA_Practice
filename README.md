@@ -168,6 +168,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0472-concatenated-words](https://github.com/prateek7137/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0481-magical-string](https://github.com/prateek7137/DSA_Practice/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/prateek7137/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -207,6 +208,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0402-remove-k-digits](https://github.com/prateek7137/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/prateek7137/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/prateek7137/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prateek7137/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/prateek7137/DSA_Practice/tree/master/1096-brace-expansion-ii) |
@@ -885,6 +887,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0020-valid-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prateek7137/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prateek7137/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
