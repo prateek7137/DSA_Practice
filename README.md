@@ -102,6 +102,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek7137/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/prateek7137/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prateek7137/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/prateek7137/DSA_Practice/tree/master/1872-stone-game-viii) |
@@ -335,6 +336,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1406-stone-game-iii](https://github.com/prateek7137/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prateek7137/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/prateek7137/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/prateek7137/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/prateek7137/DSA_Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateek7137/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -403,6 +405,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prateek7137/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/prateek7137/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/prateek7137/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/prateek7137/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prateek7137/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -452,6 +455,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0347-top-k-frequent-elements](https://github.com/prateek7137/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/prateek7137/DSA_Practice/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prateek7137/DSA_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -498,6 +502,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prateek7137/DSA_Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/prateek7137/DSA_Practice/tree/master/0399-evaluate-division) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prateek7137/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prateek7137/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prateek7137/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -515,6 +520,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateek7137/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -528,6 +534,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0437-path-sum-iii](https://github.com/prateek7137/DSA_Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateek7137/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
@@ -728,6 +735,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek7137/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prateek7137/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -808,6 +816,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prateek7137/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prateek7137/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -832,6 +841,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/prateek7137/DSA_Practice/tree/master/0397-integer-replacement) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -924,4 +934,8 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prateek7137/DSA_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prateek7137/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prateek7137/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prateek7137/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
