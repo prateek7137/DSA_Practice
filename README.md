@@ -205,6 +205,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/prateek7137/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prateek7137/DSA_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/prateek7137/DSA_Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prateek7137/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -433,6 +434,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1872-stone-game-viii](https://github.com/prateek7137/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prateek7137/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prateek7137/DSA_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prateek7137/DSA_Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateek7137/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prateek7137/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -714,6 +716,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0466-count-the-repetitions](https://github.com/prateek7137/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0481-magical-string](https://github.com/prateek7137/DSA_Practice/tree/master/0481-magical-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prateek7137/DSA_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateek7137/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prateek7137/DSA_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prateek7137/DSA_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
