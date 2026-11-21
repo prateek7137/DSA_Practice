@@ -203,6 +203,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/prateek7137/DSA_Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prateek7137/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/prateek7137/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prateek7137/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prateek7137/DSA_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -869,6 +870,7 @@ Prateek's LIVE Repo for tracking his DSA Practice.
 | [0412-fizz-buzz](https://github.com/prateek7137/DSA_Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prateek7137/DSA_Practice/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/prateek7137/DSA_Practice/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prateek7137/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/prateek7137/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prateek7137/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
